@@ -1,5 +1,18 @@
 # It's me, gilesjb.
 
+## I'm currently working on...
+
+A couple of years ago I got fed up with the complexity and inscrutability of build systems like Gradle.
+Well, specifically I got fed up with Gradle but let's face it, all build systems are terrible in their own special way.
+
+I had an idea for something different, and I think I'm onto something.
+* Write build scripts in plain code (Kotlin or Java)
+* Nothing to install (except for Kotlin)
+* Automatic dependency inference for incremental builds
+
+Depending on your perspective, [Jam](https://github.com/gilesjb/jam) is either a collection of cool tricks or a viable build system.
+One point in Jam's favor is that its own build script is written in Jam and it's beautiful.
+
 ## Fun fact:
 
 ### Amazon droppings
