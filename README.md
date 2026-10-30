@@ -30,8 +30,8 @@ In this case the feature being inserted is the JavaScript and CSS assets require
 Shopping Portal solves the problem of ensuring that every page on the Amazon website gets consistent up-to-date
 versions of site-wide assets and standard features like the navigation bar and footer.
 
-*You may observe that dynamically inserting content into HTML streams (as Shopping Portal does)
-does not play well with client-side-rendering or Next.js.
+*You may observe that dynamically inserting content into HTML streams—as Shopping Portal does—
+might not play well with client-side rendering or Next.js.
 You would be correct about this!
 Amazon very intentionally uses good ole server-side HTML rendering because it's the quickest way to get content to a user's browser,
 and online shoppers are very sensitive to how fast webpages are.
