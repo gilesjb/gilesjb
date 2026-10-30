@@ -1,6 +1,6 @@
-# It's me 
+# It's me, gilesjb.
 
-## Fun fact about me
+## Fun fact:
 
 ### Amazon droppings
 
