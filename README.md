@@ -2,7 +2,7 @@
 
 ## I'm currently working on...
 
-A couple of years ago I got fed up with the complexity and inscrutability of build systems like Gradle.
+Several years ago I got fed up with the complexity and inscrutability of build systems like Gradle.
 Well, specifically I got fed up with Gradle but let's face it all build systems are terrible in their own special way.
 
 I had an idea for something different, and I think I'm onto something.
